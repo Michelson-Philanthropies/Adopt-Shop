@@ -1,0 +1,15 @@
+# Example themes
+/themes/twenty*/
+/index.php
+/languages
+/plugins/index.php
+/themes/index.php
+
+# Example plugin
+/plugins/hello.php
+
+# Uploads
+/uploads/
+
+# Uploads
+/upgrade*/
