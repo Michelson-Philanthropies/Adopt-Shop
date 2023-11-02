@@ -6,9 +6,9 @@
 /themes/index.php
 
 # Example plugin
-/plugins/hello.php
-/plugins/genesis-blocks/
-/plugins/akismet/
+/plugins/
+
+/mu-plugins/
 
 # Uploads
 /uploads/
