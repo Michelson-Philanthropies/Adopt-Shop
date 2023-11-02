@@ -3877,6 +3877,7 @@ ul.wp-block-social-links,
 
 .alignfull img,
 .alignwide img {
+	
 	display: block;
 }
 
@@ -3899,4 +3900,5 @@ ul.wp-block-social-links,
 
 .wp-block-columns {
 	margin-bottom: 1.2em;
+	
 }
