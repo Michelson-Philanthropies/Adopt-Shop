@@ -7,6 +7,8 @@
 
 # Example plugin
 /plugins/hello.php
+/plugins/genesis-blocks/
+/plugins/akismet/
 
 # Uploads
 /uploads/
